@@ -12,14 +12,14 @@ An analysis of bike sales data through an interactive Excel dashboard, providing
 ### Dashboard Components
 
  1. Interactive Filters
-    - Gender (Male/Female)
-    - Region (Europe, North America, Pacific)
-    - Education Level
-    - Occupation
-  2. Visualizations
-     - Age Range Analysis: Shows bike purchase patterns across different age groups
-     - Income Analysis: Displays average income by gender and bike purchase status
-     - Commute Distance Impact: Illustrates purchase rates based on commuting distance
+   - Gender (Male/Female)
+   - Region (Europe, North America, Pacific)
+   - Education Level
+   - Occupation
+2. Visualizations
+   - Age Range Analysis: Shows bike purchase patterns across different age groups
+   - Income Analysis: Displays average income by gender and bike purchase status
+   - Commute Distance Impact: Illustrates purchase rates based on commuting distance
 
 ### Key Features
 
