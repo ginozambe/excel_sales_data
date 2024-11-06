@@ -1,6 +1,6 @@
 ## Bike Sales Analysis Dashboard
 
-Bike sales data analyzed through an interactive Excel dashboard, providing insights into purchasing patterns based on demographics and commuting distances.
+An analysis of bike sales data through an interactive Excel dashboard, providing insights into purchasing patterns based on demographics and commuting distances.
 
 ### Data Processing
 
@@ -36,8 +36,8 @@ Bike sales data analyzed through an interactive Excel dashboard, providing insig
 
 ### Sheets Included
 
-bike_buyers_raw_data: Original dataset
-bike_buyers_clean_data: Cleaned dataset
-Pivot Table: Pivot Tables
-Dashboard: Final dashboard 
+- bike_buyers_raw_data: Original dataset
+- bike_buyers_clean_data: Cleaned dataset
+- Pivot Table: Pivot tables
+- Dashboard: Final dashboard
 
