@@ -41,3 +41,7 @@ An analysis of bike sales data through an interactive Excel dashboard, providing
 - Pivot Table: Pivot tables
 - Dashboard: Final dashboard
 
+### Final Dashboard
+
+ ![Analysis](<final_dashboard.png>)
+
